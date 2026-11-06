@@ -51,3 +51,22 @@ The model analyzes different features of wine and predicts its quality.
 👩‍💻 Author
 
 GitHub: "bhavanaperugu27-blip" (https://github.com/bhavanaperugu27-blip)
+
+📊 Model Results
+
+- Final Model Accuracy: 71.62%
+- Sample Wine Quality Prediction: 5
+
+🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Google Colab
+
+📌 Conclusion
+
+This project uses Machine Learning techniques to predict wine quality based on physicochemical properties. The final model achieved an accuracy of 71.62%.
